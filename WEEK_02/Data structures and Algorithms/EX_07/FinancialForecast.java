@@ -1,3 +1,4 @@
+package EX_07;
 public class FinancialForecast {
 
     public static double predictFutureValue(double currentValue, double growthRate, int years) {

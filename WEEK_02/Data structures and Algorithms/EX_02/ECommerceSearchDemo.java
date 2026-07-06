@@ -1,3 +1,4 @@
+package EX_02;
 import java.util.*;
 
 class Product {
