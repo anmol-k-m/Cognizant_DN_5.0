@@ -1,4 +1,4 @@
-#Exercise 5: Task Management System
+# Exercise 5: Task Management System
 **Scenario:** 
 You are developing a task management system where tasks need to be added, deleted, and traversed efficiently.
 Steps:
@@ -13,6 +13,6 @@ o	Implement methods to add, search, traverse, and delete tasks in the linked lis
 o	Analyze the time complexity of each operation.
 o	Discuss the advantages of linked lists over arrays for dynamic data.
 
-#OUTPUT
+# OUTPUT
 
 ![alt text](image.png)
